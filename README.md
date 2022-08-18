@@ -5,7 +5,7 @@ During my bootcamp, I worked in a team and we made these two web app:
 - https://www.anubatir.me/
 - https://ki-bon-plan-mobee33.herokuapp.com/
 
-Here are some ideas to get you started:
+I live in Mauritius and currently working as an NC5 Level Teacher
 
 - 🌱 I’m currently learning Photoshop
 - 👯 I’m looking to collaborate on Rails projects
