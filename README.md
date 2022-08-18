@@ -1,6 +1,6 @@
 ### 👋 Mubeen's Github Profile 👋
 
-Hey there, my name is Mubeen Bankur. I just completed Le Wagon's Coding Bootcamp and I'm embarking on a journey to learn how to draw, photoshop, blender, C++ and Unity. 
+Hey there, my name is Mubeen Bankur. I just completed Le Wagon's FullStack Coding Bootcamp and I'm embarking on a journey to learn how to draw, photoshop, blender, C++ and Unity. 
 During my bootcamp, I worked in a team and we made these two web app: 
 - https://www.anubatir.me/
 - https://ki-bon-plan-mobee33.herokuapp.com/
