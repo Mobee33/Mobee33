@@ -12,7 +12,7 @@ I live in Mauritius and currently working as an NC5 Level Educator
 - 🤔 I’m looking for help with coding related stuffs
 - 💬 Ask me about Engineering Stuffs, Ruby On Rails, Git, Mauritius, Hiking Stuffs, Mindset and Working Out
 - 📫 How to reach me: mobee33@hotmail.com
-- ⚡ Fun fact: I've hiked 10 Mountains in Mauritius so far.
+- ⚡ Fun fact: I've hiked 12 Mountains in Mauritius so far.
 
 ### 🌎 My Languages 🌎
 - 🇬🇧 English
